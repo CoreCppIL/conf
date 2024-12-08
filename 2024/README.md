@@ -20,6 +20,10 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Eran Gilad**, [C++ parallel programming models](Eran Gilad - Parallel programming models in C++.pdf) (PDF)
 - **Gili Kamma**, [Building Effective Embedded Systems in C++](Gili Kamma - Building Effective Embedded Systems in C++.pdf) (PDF)
 - **Inbal Levi**, [Welcome to the meta::[[verse]]!](Inbal Levi - Welcome To The Meta Verse Reflection.pdf) (PDF)
+- **Jean-Louis Leroy**, [Open Is Good: Fast, Orthogonal Open Multi Methods with YOMM2](Jean-Louis Leroy - Open Is Good; Fast, Orthogonal Open (Multi) Methods with YOMM2.pdf) (PDF)
+- **Nathanel Ozeri**, [C++ Fundamentals: Object-Oriented Programming with C++](Nathanel Ozeri - Object-Oriented Programming with C++.pdf) (PDF)
+- **Robert Leahy**, [Evolving C++ Networking With Senders & Receivers](Robert Leahy - Evolving C++ Networking With Senders & Receivers.pdf) (PDF)
 - **Roi Barkan**, [Implementing Ranges and Views](Roi Barkan - Implementing Ranges and Views.pdf) (PDF)
 - **Roi Barkan**, [Modern Techniques for Logger Rejuvenation](Roi Barkan - Modern Techniques for Logger Rejuvenation.pdf) (PDF)
-
+- **Ruslan Burakov**, [3d logs to analyze self-driving cars](Ruslan Burakov - 3d logs to analyze self-driving cars.pdf) (PDF)
+- **Yossi Moalem** and **Assaf Wolfhart**, [Optimizations in the HFT world](Yossi Moalem and Assaf Wolfhart - Optimizations in the HFT world.pdf) (PDF)
