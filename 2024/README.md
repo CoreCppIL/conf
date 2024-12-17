@@ -27,5 +27,6 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Roi Barkan**, [Implementing Ranges and Views](Roi Barkan - Implementing Ranges and Views.pdf) (PDF)
 - **Roi Barkan**, [Modern Techniques for Logger Rejuvenation](Roi Barkan - Modern Techniques for Logger Rejuvenation.pdf) (PDF)
 - **Ruslan Burakov**, [3d logs to analyze self-driving cars](https://docs.google.com/presentation/d/1kAYpVu0l-TtBUoMrN6zY22ybdeLrHjUwp-OYcJz9IZU) (PDF)
+- **Svaytoslav Feldsherov**, [The Pains and Joys of C++ In-Process Graph Execution](Svaytoslav Feldsherov - The Pains and Joys of C++ In-Process Graph Execution.pdf) (PDF)
 - **Udi Lavi**, [Leveraging Pure Interfaces For Scalable C++ Applications](Udi Lavi - Leveraging Pure Interfaces For Scalable C++ Applications.pdf) (PDF)
 - **Yossi Moalem** and **Assaf Wolfhart**, [Optimizations in the HFT world](Yossi Moalem and Assaf Wolfhart - Optimizations in the HFT world.pdf) (PDF)
