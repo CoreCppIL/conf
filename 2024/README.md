@@ -19,6 +19,7 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Dafna Mordechai** and **Omer Paparo Bivas**, [Speeding up Intel Gaudi deep-learning accelerators using an MLIR-based compiler](Dafna Mordechai and Omer Paparo Bivas - Speeding up Intel Gaudi deep-learning accelerators using an MLIR-based compiler.pdf) (PDF)
 - **Eran Gilad**, [C++ parallel programming models](Eran Gilad - Parallel programming models in C++.pdf) (PDF)
 - **Gili Kamma**, [Building Effective Embedded Systems in C++](Gili Kamma - Building Effective Embedded Systems in C++.pdf) (PDF)
+- **Haim Cohen**, [How a 43-year-old software company keeps its code fresh and maintainable](Haim Cohen - How a 43-year-old software company keeps its code fresh and maintainable.pdf) (PDF)
 - **Inbal Levi**, [Welcome to the meta::[[verse]]!](Inbal Levi - Welcome To The Meta Verse Reflection.pdf) (PDF)
 - **Jean-Louis Leroy**, [Open Is Good: Fast, Orthogonal Open Multi Methods with YOMM2](Jean-Louis Leroy - Open Is Good; Fast, Orthogonal Open (Multi) Methods with YOMM2.pdf) (PDF)
 - **Nathanel Ozeri**, [C++ Fundamentals: Object-Oriented Programming with C++](Nathanel Ozeri - Object-Oriented Programming with C++.pdf) (PDF)
