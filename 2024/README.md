@@ -31,4 +31,5 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Ryan Baker**, [Messing with Floating Point](Ryan Baker - Messing with Floating Point.pdf) (PDF)
 - **Svaytoslav Feldsherov**, [The Pains and Joys of C++ In-Process Graph Execution](Svaytoslav Feldsherov - The Pains and Joys of C++ In-Process Graph Execution.pdf) (PDF)
 - **Udi Lavi**, [Leveraging Pure Interfaces For Scalable C++ Applications](Udi Lavi - Leveraging Pure Interfaces For Scalable C++ Applications.pdf) (PDF)
+- **Yechiel Kimchi**, [Better C++ Programming.pptx](Yechiel Kimchi - Better C++ Programming.pptx) (PPTX)
 - **Yossi Moalem** and **Assaf Wolfhart**, [Optimizations in the HFT world](Yossi Moalem and Assaf Wolfhart - Optimizations in the HFT world.pdf) (PDF)
