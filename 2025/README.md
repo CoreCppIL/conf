@@ -8,3 +8,5 @@ Note that not all presentation slides are optimized for reading without the acco
 
 Gathering all presentations might take a while - if you're interested in a certain presentation and can't find it here, either check again
 within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.org)
+
+- **Eran Gilad**, [Parallel Paths: From SIMD lanes to memory highways in C++](Eran Gilad - Parallel Paths - From SIMD lanes to memory highways in Cpp.pdf) (PDF)
