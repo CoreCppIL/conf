@@ -9,4 +9,15 @@ Note that not all presentation slides are optimized for reading without the acco
 Gathering all presentations might take a while - if you're interested in a certain presentation and can't find it here, either check again
 within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.org)
 
-- **Eran Gilad**, [Parallel Paths: From SIMD lanes to memory highways in C++](Eran Gilad - Parallel Paths - From SIMD lanes to memory highways in Cpp.pdf) (PDF)
+- **Alex Dathskovsky**, [C++23 tools that you will actually use](Alex Dathskovsky - C++23 tools that you will actually use.pdf) (PDF)
+- **Amir Kirsh**, [C++ Pitfalls and Sharp Edges to Avoid](https://bit.ly/CppPitfalls_CoreCpp2025_Amir-Kirsh) (Google Slides)
+- **Coral Kashri**, [Who's afraid of The Big Bad Template](https://coralkashri.github.io/who-is-afraid-of-the-big-bad-template/presentation.html) (Web page), source at [github.com/coralkashri/who-is-afraid-of-the-big-bad-template](https://github.com/coralkashri/who-is-afraid-of-the-big-bad-template)
+- **Chris Gearing**, [Typing++ for C++](Chris Gearing - Typing++ for C++.pdf) (PDF)
+- **Elazar Leibovich**, [C++ In Early Boot](https://docs.google.com/presentation/d/1vpBQRet-L1bUT0MRqEp_eDoChRjB-9J9obhwfr43ROI) (Google Slides)
+- **Eran Gilad**, [Parallel Paths: From SIMD lanes to memory highways in C++](Eran Gilad - Parallel Paths - From SIMD lanes to memory highways in Cpp.pdf) (PDF), source at [github.com/erangi/cpu-par-talk](https://github.com/erangi/cpu-par-talk/tree/core-cpp-2025)
+- **Lotem Dalal**, [(Intel)ligent Verification](Lotem Dalal - (Intel)ligent Verification.pdf) (PDF)
+- **Maria Piterberg**, [Welcome to the museum of AI hallucinations](Maria Piterberg - Welcome to the museum of AI hallucinations.pdf) (PDF)
+- **Nathanel Ozeri Green**, [Ranges for Beginners](Nathanel Ozeri Green - Ranges for Beginners.pdf) (PDF)
+- **Shar Yashuv Giat and Ofek Shochat**, [Order! Order!](Shar Yashuv Giat and Ofek Shochat- Order, Order.pdf) (PDF)
+- **Tomer Vromen**, [When the Structs Align](Tomer Vromen - When the Structs Align.pdf) (PDF)
+- **Vlad Dovlekaev**, [Adventures with Bazel](Vlad Dovlekaev - Adventures with Bazel.pdf) (PDF)
