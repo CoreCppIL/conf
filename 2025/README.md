@@ -21,5 +21,6 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Nathanel Ozeri Green**, [Ranges for Beginners](Nathanel Ozeri Green - Ranges for Beginners.pdf) (PDF)
 - **Omer Anson**, [Coroutines 101](Omer Anson - Coroutines 101.pdf) (PDF)
 - **Shar Yashuv Giat and Ofek Shochat**, [Order! Order!](Shar Yashuv Giat and Ofek Shochat- Order, Order.pdf) (PDF)
+- **Sivan Kotzer Zohar**, [Virtual Tables Unveiled: Exploitation and Mitigation in Practice](Sivan Kotzer Zohar - vtables unveiled.pdf) (PDF)
 - **Tomer Vromen**, [When the Structs Align](Tomer Vromen - When the Structs Align.pdf) (PDF)
 - **Vlad Dovlekaev**, [Adventures with Bazel](Vlad Dovlekaev - Adventures with Bazel.pdf) (PDF)
