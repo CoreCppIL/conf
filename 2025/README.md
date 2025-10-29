@@ -24,3 +24,4 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Sivan Kotzer Zohar**, [Virtual Tables Unveiled: Exploitation and Mitigation in Practice](Sivan Kotzer Zohar - vtables unveiled.pdf) (PDF)
 - **Tomer Vromen**, [When the Structs Align](Tomer Vromen - When the Structs Align.pdf) (PDF)
 - **Vlad Dovlekaev**, [Adventures with Bazel](Vlad Dovlekaev - Adventures with Bazel.pdf) (PDF)
+- **Roi Barkan**, [Refactoring Towards Structured Concurrency](https://docs.google.com/presentation/d/1Wl2uUd-Idl_XTFzgtCNfiPWBDbTrk0ubXnkbYE9zvCo/present) (Google Slides)
