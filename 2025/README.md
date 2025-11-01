@@ -28,5 +28,5 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Sivan Kotzer Zohar**, [Virtual Tables Unveiled: Exploitation and Mitigation in Practice](Sivan Kotzer Zohar - vtables unveiled.pdf) (PDF)
 - **Tomer Vromen**, [When the Structs Align](Tomer Vromen - When the Structs Align.pdf) (PDF)
 - **Vlad Dovlekaev**, [Adventures with Bazel](Vlad Dovlekaev - Adventures with Bazel.pdf) (PDF)
-- **Yair Friedman**, [The Effects of C++ Evolution on Design Patterns](Yair Friedman - The Effects of C++ Evolution on Design Patterns.pdf) (PDF)
+- **Yair Friedman**, [The Effects of C++ Evolution on Design Patterns](Yair Friedman - The Effects of C++ Evolution on Design Patterns.pdf) (PDF), source at [github.com/yairifr/corecppdp](https://github.com/yairifr/corecppdp)
 - **Yair Friedman**, [AI Close Encounters of the Third Kind 👽](Yair Friedman - AI Close Encounters of the Third Kind.pdf)
