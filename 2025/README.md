@@ -17,6 +17,7 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Elazar Leibovich**, [C++ In Early Boot](https://docs.google.com/presentation/d/1vpBQRet-L1bUT0MRqEp_eDoChRjB-9J9obhwfr43ROI) (Google Slides)
 - **Eran Gilad**, [Parallel Paths: From SIMD lanes to memory highways in C++](Eran Gilad - Parallel Paths - From SIMD lanes to memory highways in Cpp.pdf) (PDF), source at [github.com/erangi/cpu-par-talk](https://github.com/erangi/cpu-par-talk/tree/core-cpp-2025)
 - **Igor Khanin and Ben Liderman**, [Lock me up Scotty!](Igor Khanin and Ben Liderman - Lock me up Scotty.pdf) (PDF)
+- **Joel Nider**, [Disaggregated Memory over Low Latency Fabrics](Joel Nider - Disaggregated Memory over Low Latency Fabrics.pdf) (PDF)
 - **Lotem Dalal**, [(Intel)ligent Verification](Lotem Dalal - (Intel)ligent Verification.pdf) (PDF)
 - **Maria Piterberg**, [Welcome to the museum of AI hallucinations](Maria Piterberg - Welcome to the museum of AI hallucinations.pdf) (PDF)
 - **Michael Lindner**, [Are There Time Bombs in Your Realtime Code](Michael Lindner - Are There Time Bombs in Your Realtime Code.pdf) (PDF)
