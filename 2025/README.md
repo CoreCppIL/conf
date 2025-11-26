@@ -14,6 +14,7 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Alex Dathskovsky**, [C++23 tools that you will actually use](Alex Dathskovsky - C++23 tools that you will actually use.pdf) (PDF)
 - **Alex Kushnir**, [Managing dependencies with CMake](Alex Kushnir - Managing dependencies with CMake.pdf) (PDF)
 - **Amir Kirsh**, [C++ Pitfalls and Sharp Edges to Avoid](https://bit.ly/CppPitfalls_CoreCpp2025_Amir-Kirsh) (Google Slides)
+- **Andrei Zissu**, [C++ Contracts – a Meaningfully Viable Product](Andrei Zissu - C++ Contracts – a Meaningfully Viable Product.pptx) (PPTX)
 - **Coral Kashri**, [Who's afraid of The Big Bad Template](https://coralkashri.github.io/who-is-afraid-of-the-big-bad-template/presentation.html) (Web page), source at [github.com/coralkashri/who-is-afraid-of-the-big-bad-template](https://github.com/coralkashri/who-is-afraid-of-the-big-bad-template)
 - **Chris Gearing**, [Typing++ for C++](Chris Gearing - Typing++ for C++.pdf) (PDF)
 - **Elazar Leibovich**, [C++ In Early Boot](https://docs.google.com/presentation/d/1vpBQRet-L1bUT0MRqEp_eDoChRjB-9J9obhwfr43ROI) (Google Slides)
