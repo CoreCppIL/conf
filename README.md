@@ -9,4 +9,5 @@ Note that not all presentation slides are optimized for reading without the acco
 
 - [Core C++ 2024](2024)
 - [Core C++ 2025](2025)
+- [Core C++ 2026](2026)
 
