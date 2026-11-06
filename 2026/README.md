@@ -23,6 +23,7 @@ within a few days or ask us for it - [info@corecpp.org](mailto://info@corecpp.or
 - **Noam arye Nassi**, [Return to Sender: Continuation-Passing Style in C++](https://docs.google.com/presentation/d/1bCPIZaezzS0yeOjDQ84nhz980jgvvYrbjh4L4_8iHTQ) (GDoc)
 - **Ofek Shilon**, [Processor Design and C++ Memory Models](Ofek Shilon - Processor Design and C++ Memory Models.pptx) (PPTX)
 - **Pavel Simerda**, [From Async I/O to Senders and Receivers](Pavel Simerda - From Async IO to Senders and Receivers.pdf) (PDF)
+- **Ran Regev**, [Structure Binding Assignment](https://regevran.github.io/p3817-presentatin/) (HTML)
 - **Roi Barkan**, [Effective Lock Free Architecture in C++26](https://docs.google.com/presentation/d/1snDs7WgLrAwf7hTAyAsbWk4tscfdUYySxgj2Ons-fG0) (GDoc)
 - **Ron Shabi**, [Running C++ on Bare Metal: Building an aarch64 Cross-Toolchain from `configure` to First Boot](Ron Shabi - Running C++ on Bare Metal Building an aarch64 Cross-Toolchain from configure to First Boot.pdf) (PDF)
 - **Tal Yacobi**, [Implementing a New Kind of Static](Tal Yacobi - A New Kind of Static.pdf) (PDF)
